@@ -1,28 +1,47 @@
 {
     "air-jordan-3-valor-blue": {
+        "id": "0",
         "name": "VALOUR BLUE",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 23.09
+
     },
     "jordan-mars-270-london": {
+        "id": "1",
         "name": "JORDAN MARS 270 LONDON",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 29.01
     },
     "air-jordan-1-zoom-racer-blue": {
+        "id": "2",
         "name": "RACER BLUE",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 35.05
     },
 
     "air-jordan-3-valor-blue1": {
+        "id": "3",
         "name": "VALOUR BLUE",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 23.09
     },
     "jordan-mars-270-london2": {
+        "id": "4",
         "name": "JORDAN MARS 270 LONDON",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 29.01
     },
     "air-jordan-1-zoom-racer-blue3": {
+        "id": "5",
         "name": "RACER BLUE",
-        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "desc": "A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+        "price": 35.05
     }
 
 
