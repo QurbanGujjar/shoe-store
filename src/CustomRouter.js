@@ -8,13 +8,16 @@ import Checkout from "./components/Checkout";
 import PageNotFound from "./components/PageNotFound";
 import Product from "./components/Product";
 import ProductItem from "./components/ProductItem";
+import Login from "./components/Login"
 
 function CustomRouter() {
   return (
 
     <Router>
       <Routes>
+
       <Route exact path='/' element={<div><Header/> <Product /></div>} />
+      <Route exact path='/login' element={<div><Login /></div>} />
       <Route exact path='/checkout' element={<div><Header/> <Checkout /></div>} />
         <Route exact path='/Home' element={<div>Home page</div>} />
         <Route exact path='/About' element={<div>Navbar</div> } />
